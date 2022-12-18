@@ -25,7 +25,7 @@ Según palabras de L. Manovich que podemos encontrar en su libro las siguientes 
 
 Según Manovich y lo que explica en su libro **El software toma el mando** la **hibridación** no es juntar dos componentes y ya está, lo que Manovich nos explica es que es algo nuevo y único.
 
-![Móvil](https://pixabay.com/images/id-1869510/) 
+![Móvil](https://www.ikusi.com/wp-content/uploads/2022/06/post_thumbnail-4efabca9bd56b38edc0058c4ba006481.jpeg) 
 
 
 ## Re-descubriendo la hibridacion: Caso 1 - TAIKO NO TATSUJIN Drum 'n' Fun! Nintendo Switch
