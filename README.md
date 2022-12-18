@@ -4,7 +4,7 @@
 ### Recurso de aprendizaje de Cultura Digital 
 
 
-Autor: Esmeralda Marín Carnero
+Autor: Esmeralda Marín Carnero :cherry_blossom:
 
 
 Fecha: Diciembre de 2022
