@@ -28,7 +28,7 @@ Según Manovich y lo que explica en su libro El software toma el mando la hibrid
 ![Móvil](https://pixabay.com/images/id-1869510/) 
 
 
-## Re-descubriendo la hibridacion: Caso 1
+## Re-descubriendo la hibridacion: Caso 1 - TAIKO NO TATSUJIN Drum 'n' Fun! Nintendo Switch
 
 Taiko no Tatsujin Drum 'n' Fun!´para la Nintendo Switch se lanzó en Japón el 19 de julio de 2018, en España no nos ha llegado hasta el 02 de noviembre del 2022. Es una serie de videojuegos musicales creado por la empresa Namco. 
 
@@ -41,15 +41,17 @@ Tradicionalmente el Taiko es un instrumento que cuenta con un gran tambor (taiko
 ¿Cómo es la interfaz del juego? Pues en la pantalla salen unos círculos rojos y azules que van pasando a lo largo de la pantalla y tienes que ir dando golpes en el tambor al ritmo que te indica, dependiendo de si lo haces bien o no te van dando puntos. Es un juego muy divertido y adictivo.
 
 
-## Re-descubriendo la hibridacion: Caso 2
+## Re-descubriendo la hibridacion: Caso 2 - PIKMIN BLOOM para smartphone
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Este juego para plataformas móviles como IOS y Android es muy adictivo, fue lanzado en Europa el 26 de octubre del 2021 por el desarrollador y distribuidor Niantic, Nintendo, dirigido por Tatsuo Nomura. Este videojuego de realidad aumentada es muy similar al Pokemon Go que todos conocemos y que ha estado tanto de moda, pero esta vez en vez de tener que capturar Pokemon tienes que plantar flores. 
+¿Cómo funciona? Es muy simple, si quieres plantar flores tienes que caminar, el juego detecta tu localización y mientras vas caminando vas plantando flores de diferentes tipos. Dispondrás de un pelotón de unos personajes super graciosos de colores que te darán néctar de flores. Con ese néctar podrás plantar las flores mientras das un plácido paseo por tu ciudad, y a la vez podrás incubar más de estos personajes graciosos llamados Pikmin. Además cuenta con la opción multijugador en el que podrás plantar flores junto a tus amigos mientras paseáis juntos por la ciudad.
 
 
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
-
+* El sonido de la historia: el tradicional gran tambor Taiko por María del Carmen Baena Lupiáñez https://gogonihon.com/es/blog/el-tradicional-gran-tambor-taiko/
+* Pikmin Bloom Página oficial de la aplicación móvil https://pikminbloom.com/es/
 
 ----
 
