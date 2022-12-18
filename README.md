@@ -25,7 +25,7 @@ El resultado de la hibridación no es tan solo la suma mecánica de componentes 
 
 Según Manovich y lo que explica en su libro El software toma el mando la hibridación no es juntar dos componentes y ya está, lo que Manovich nos explica es que es algo nuevo y único.
 
-![Móvil](https://pixabay.com/images/id-1869510/) 
+![Móvil](https://cdn.pixabay.com/photo/2016/11/29/12/30/phone-1869510_960_720.jpg) 
 
 
 ## Re-descubriendo la hibridacion: Caso 1
