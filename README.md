@@ -10,7 +10,7 @@ Autor: Esmeralda Marín Carnero :cherry_blossom:
 Fecha: Diciembre de 2022 :notebook_with_decorative_cover:
 
 
-## Planteamiento
+## Planteamiento :pushpin:
 
 
 Como nos explica L. Manovich en su libro **El software toma el mando** la **hibridación** es una singularidad de los nuevos medios, y no es más que la mezcla de componentes de medios distintos y formas de expresión en una producción u obra.
@@ -25,7 +25,7 @@ Según Manovich y lo que explica en su libro **El software toma el mando** la **
 ![Móvil](https://www.ikusi.com/wp-content/uploads/2022/06/post_thumbnail-4efabca9bd56b38edc0058c4ba006481.jpeg) 
 
 
-## Re-descubriendo la hibridacion: Caso 1 - TAIKO NO TATSUJIN Drum 'n' Fun! Nintendo Switch
+## Caso :one: - TAIKO NO TATSUJIN Drum 'n' Fun! Nintendo Switch
 
 **Taiko no Tatsujin Drum 'n' Fun!´** para la Nintendo Switch se lanzó en Japón el 19 de julio de 2018, en España no nos ha llegado hasta el _02 de noviembre del 2022_. Es una serie de videojuegos musicales creado por la empresa Namco. 
 
@@ -40,7 +40,7 @@ Tradicionalmente el _Taiko_ es un instrumento que cuenta con un gran tambor (_ta
 ¿Cómo es la interfaz del juego? Pues en la pantalla salen unos círculos rojos y azules que van pasando a lo largo de la pantalla y tienes que ir dando golpes en el tambor al ritmo que te indica, dependiendo de si lo haces bien o no te van dando puntos. Es un juego muy divertido y adictivo.
 
 
-## Re-descubriendo la hibridacion: Caso 2 - PIKMIN BLOOM para smartphone
+## Caso :two: - PIKMIN BLOOM para smartphone
 
 Este juego para plataformas móviles como **IOS** y **Android** es muy adictivo, fue lanzado en Europa el **26 de octubre del 2021** por el desarrollador y distribuidor _Niantic_, _Nintendo_, dirigido por _Tatsuo Nomura_. Este videojuego de realidad aumentada es muy similar al _Pokemon Go_ que todos conocemos y que ha estado tanto de moda, pero esta vez en vez de tener que capturar Pokemon tienes que plantar flores. 
 
