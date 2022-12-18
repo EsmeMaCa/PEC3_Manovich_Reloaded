@@ -44,6 +44,7 @@ Tradicionalmente el Taiko es un instrumento que cuenta con un gran tambor (taiko
 ## Re-descubriendo la hibridacion: Caso 2 - PIKMIN BLOOM para smartphone
 
 Este juego para plataformas móviles como IOS y Android es muy adictivo, fue lanzado en Europa el 26 de octubre del 2021 por el desarrollador y distribuidor Niantic, Nintendo, dirigido por Tatsuo Nomura. Este videojuego de realidad aumentada es muy similar al Pokemon Go que todos conocemos y que ha estado tanto de moda, pero esta vez en vez de tener que capturar Pokemon tienes que plantar flores. 
+
 ¿Cómo funciona? Es muy simple, si quieres plantar flores tienes que caminar, el juego detecta tu localización y mientras vas caminando vas plantando flores de diferentes tipos. Dispondrás de un pelotón de unos personajes super graciosos de colores que te darán néctar de flores. Con ese néctar podrás plantar las flores mientras das un plácido paseo por tu ciudad, y a la vez podrás incubar más de estos personajes graciosos llamados Pikmin. Además cuenta con la opción multijugador en el que podrás plantar flores junto a tus amigos mientras paseáis juntos por la ciudad.
 
 
