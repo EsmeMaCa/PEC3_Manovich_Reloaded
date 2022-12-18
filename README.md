@@ -51,8 +51,8 @@ Este juego para plataformas móviles como IOS y Android es muy adictivo, fue lan
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
-* El sonido de la historia: el tradicional gran tambor Taiko por María del Carmen Baena Lupiáñez https://gogonihon.com/es/blog/el-tradicional-gran-tambor-taiko/
-* Pikmin Bloom Página oficial de la aplicación móvil https://pikminbloom.com/es/
+* **El sonido de la historia: el tradicional gran tambor Taiko** por María del Carmen Baena Lupiáñez https://gogonihon.com/es/blog/el-tradicional-gran-tambor-taiko/
+* **Pikmin Bloom** Página oficial de la aplicación móvil https://pikminbloom.com/es/
 
 ----
 
