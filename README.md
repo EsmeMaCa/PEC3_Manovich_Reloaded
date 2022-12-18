@@ -55,6 +55,9 @@ Este juego para plataformas móviles como **IOS** y **Android** es muy adictivo,
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 * **El sonido de la historia: el tradicional gran tambor Taiko** por María del Carmen Baena Lupiáñez https://gogonihon.com/es/blog/el-tradicional-gran-tambor-taiko/
 * **Pikmin Bloom** Página oficial de la aplicación móvil https://pikminbloom.com/es/
+* Imágen 1 sacada de la página https://www.ikusi.com/mx/blog/tecnologias-de-la-informacion-en-las-empresas-como-impacta-el-negocio/ **Tecnologías de la información en las empresas: ¿cómo impacta el negocio?** IKUSI velatia
+* Imágen 2 sacada de la página https://es.bandainamcoent.eu/taiko-no-tatsujin/taiko-no-tatsujin-drumnfun **TAIKO NO TATSUJIN Drum 'n' Fun! Nintendo Switch** Página oficial
+* Imágen 2 sacada de la página https://pikminbloom.com/es/gameplay/ **Pikmin Bloom** Página oficial
 
 ----
 
