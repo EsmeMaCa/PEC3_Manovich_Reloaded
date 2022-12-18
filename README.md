@@ -16,21 +16,21 @@ Fecha: Diciembre de 2022 :notebook_with_decorative_cover:
 ## Planteamiento
 
 
-Como nos explica L. Manovich en su libro El software toma el mando la hibridación es una singularidad de los nuevos medios, y no es más que la mezcla de componentes de medios distintos y formas de expresión en una producción u obra.
+Como nos explica L. Manovich en su libro **El software toma el mando** la **hibridación** es una singularidad de los nuevos medios, y no es más que la mezcla de componentes de medios distintos y formas de expresión en una producción u obra.
 
 Según palabras de L. Manovich que podemos encontrar en su libro las siguientes citas:
->En 1977 Kay y Goldberg especularon que el nuevo metamedio ordenador contendría «un amplio abanico de medios ya existentes y otros aún por inventar», hoy por hoy podemos describir uno de los principales mecanismos que hay detrás de la invención de estos nuevos medios. Este mecanismo es la hibridación. L. Manovich. El software toma el mando 2013, Barcelona, UOC.
+>En 1977 Kay y Goldberg especularon que el nuevo metamedio ordenador contendría **«un amplio abanico de medios ya existentes y otros aún por inventar»**, hoy por hoy podemos describir uno de los principales mecanismos que hay detrás de la invención de estos nuevos medios. Este mecanismo es la hibridación. L. Manovich. El software toma el mando 2013, Barcelona, UOC.
 
->El resultado de la hibridación no es tan solo la suma mecánica de componentes previos, sino una nueva «especie» L. Manovich. El software toma el mando 2013, Barcelona, UOC.
+>El resultado de la hibridación no es tan solo la suma mecánica de componentes previos, sino una nueva **«especie»** L. Manovich. El software toma el mando 2013, Barcelona, UOC.
 
-Según Manovich y lo que explica en su libro El software toma el mando la hibridación no es juntar dos componentes y ya está, lo que Manovich nos explica es que es algo nuevo y único.
+Según Manovich y lo que explica en su libro **El software toma el mando** la **hibridación** no es juntar dos componentes y ya está, lo que Manovich nos explica es que es algo nuevo y único.
 
 ![Móvil](https://pixabay.com/images/id-1869510/) 
 
 
 ## Re-descubriendo la hibridacion: Caso 1 - TAIKO NO TATSUJIN Drum 'n' Fun! Nintendo Switch
 
-Taiko no Tatsujin Drum 'n' Fun!´para la Nintendo Switch se lanzó en Japón el 19 de julio de 2018, en España no nos ha llegado hasta el 02 de noviembre del 2022. Es una serie de videojuegos musicales creado por la empresa Namco. 
+**Taiko no Tatsujin Drum 'n' Fun!´** para la Nintendo Switch se lanzó en Japón el 19 de julio de 2018, en España no nos ha llegado hasta el _ _02 de noviembre del 2022_ _. Es una serie de videojuegos musicales creado por la empresa Namco. 
 
 Ha hecho lanzamientos de varios juegos para muchas plataformas diferentes como, por ejemplo, Nintendo DS, PlayStation 2, Wii, telefonía móvil, Nintendo Switch entre otros. En Japón también disponen del juego en máquina recreativa en los centros como Taito Station.
 
