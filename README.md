@@ -9,9 +9,6 @@ Autor: Esmeralda Marín Carnero :cherry_blossom:
 
 Fecha: Diciembre de 2022 :notebook_with_decorative_cover:
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
-
-
 
 ## Planteamiento
 
@@ -35,6 +32,8 @@ Según Manovich y lo que explica en su libro **El software toma el mando** la **
 Ha hecho lanzamientos de varios juegos para muchas plataformas diferentes como, por ejemplo, Nintendo DS, PlayStation 2, Wii, telefonía móvil, Nintendo Switch entre otros. En Japón también disponen del juego en máquina recreativa en los centros como _Taito Station_.
 
 Este juego de la **Nintendo Switch** es muy simple pero complicado a la vez, lo único que tienes que hacer es tocar un tambor japonés (_taiko_) con unas baquetas (_bachi_) y seguir el ritmo de la música. Los primeros niveles pueden ser más fáciles depende de la persona, pero a medida que vas subiendo los niveles la cosa se complica y hay personas que son auténticas expertas en el arte del tambor.
+
+![Cultura Digital](https://p325k7wa.twic.pics/high/taiko-no-tatsujin/taiko-no-tatsujin-drum'n'fun/04-retailers/taiko-drumnfun_retailer_pack.png?twic=v1/step=10/quality=80/max=630) 
 
 Tradicionalmente el _Taiko_ es un instrumento que cuenta con un gran tambor (_taiko_) y unas baquetas de madera (_bachi_). Durante el periodo _Sengoku_ se cree que las ordenes a las tropas en la guerra se les mandaba con golpes en el tambor. Se han utilizado y se utilizan en obras de teatro y en festivales tales como los _matsuri_. El caso es que actualmente para poder disfrutar de este instrumento se han hecho adaptaciones muy interesantes en diferentes plataformas, entre ellas en la **Nintendo Switch** que es de la que hablamos en este post. La forma en la que podemos utilizar este instrumento en el videojuego cuenta con un tambor de plástico pequeño y unas baquetas de plástico pequeñas para seguir el ritmo de la música.
 
